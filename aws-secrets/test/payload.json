@@ -1,0 +1,10 @@
+{
+    "ARN": "arn:aws:secretsmanager:us-east-1:2734895:secret:WidgetService-Yg4Dah",
+    "Name": "WidgetService",
+    "VersionId": "b18acdcf-272b-4205-9eef-c28645e7e595",
+    "SecretString": "{\"API key\":\"fpqjd41Fja9nVnar3sd\"}",
+    "VersionStages": [
+        "AWSCURRENT"
+    ],
+    "CreatedDate": "2021-03-04T14:42:42.150000-07:00"
+}
